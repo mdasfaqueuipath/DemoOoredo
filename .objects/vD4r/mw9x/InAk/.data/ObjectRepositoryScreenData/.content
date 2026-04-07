@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="0TLLoaaCCEWdQIYROD4GWQ" Reference="KFKxh6dXGk6fxd9xZs55-A/InAkRHFgF0OmrW5MUOf_Wg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" ContentHash="dlyvnPwZUkSf-IbZpSuUaw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGkSURBVFhH7ZQxS8NAGIY7+BfEuLl1dbCxo8T+g/4A3XRT1w4lUOKkq0MnRzO7VpzsKgilVpGKoqgtFjEiohB9D77afLkkeNfYDn3hpU3vyvPkcpfM0vb7iuW89izH89Ps7NoZ77GxfjqXsRyvzSenUYmAkIBAaHIalcBFJwLjKzDsfNampJ0IaAm8vH35O4cP/kkreT4HawvcdD/8QuVSbCSz1OTDoXCwlgDgZulcwIu7V+I6KRysJUDwjf1bPhQZDlYWqB51BLxQueBDseFgZQG6eyx7veX5bv1ZfCaFg5UEAKK7pw1IhVjcXuBgJQEcuV9gUzwOFN9JAkdTFg5WEsCmI/jg3QKKVcFYtdYJ/IfCwVoCst1Pq1N27/iQCAcrCdAJkAkAnLoAXrmAZDcbgUcw+GKKei1zsJIAQo8BXd27FtfZrUbkylA4WFkAKbv3fQkqfos6AQgHawkgWHYsNxoHpnCwtsBfw8HjI2DYeV/WhYPiUPu0nAv10TLtkQkIOMLB/yHQh49CIABHZuzFHoenJRCCI9N2bt6w8+20BaTwn3wDHerWY3u9zAcAAAAASUVORK5CYII=" Reference="KFKxh6dXGk6fxd9xZs55-A/InAkRHFgF0OmrW5MUOf_Wg" Selector="&lt;html app='msedge.exe' title='Google Calendar - Week of April 5, 2026' /&gt;" Url="https://calendar.google.com/calendar/u/0/r?pli=1" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="e1959b0e01766f77f2592c6f6806b610.jpg" xmlns="">0szaH-5JlzU6B1CDJ0-db_A</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

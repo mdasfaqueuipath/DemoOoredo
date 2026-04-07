@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Start",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "3xlOrmlmo0mE2rBJm5mO3w",
+  "Reference": "KFKxh6dXGk6fxd9xZs55-A/3xlOrmlmo0mE2rBJm5mO3w",
+  "ParentRef": "KFKxh6dXGk6fxd9xZs55-A/MINhql3gFUefF9O0NIctyQ",
+  "Created": "2026-04-06T11:00:10.0500509Z",
+  "Updated": "2026-04-06T11:00:10.0500509Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.29.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

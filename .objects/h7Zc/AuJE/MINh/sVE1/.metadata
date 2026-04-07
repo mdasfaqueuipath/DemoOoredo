@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Phone Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "sVE1_LXTcUOcPUF9i8gdtA",
+  "Reference": "KFKxh6dXGk6fxd9xZs55-A/sVE1_LXTcUOcPUF9i8gdtA",
+  "ParentRef": "KFKxh6dXGk6fxd9xZs55-A/MINhql3gFUefF9O0NIctyQ",
+  "Created": "2026-04-06T10:58:46.2817102Z",
+  "Updated": "2026-04-06T10:58:46.2817102Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.29.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

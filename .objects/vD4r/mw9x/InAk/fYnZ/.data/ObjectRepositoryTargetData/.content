@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CweQ6q0JxU-SPd6RnNHqGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="calendar.google.com/calendar/u/0/r" DesignTimeRectangle="65, 447, 24, 13" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='20' type='' tag='DIV' class='x5FT4e kkUTBb' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='20' /&gt;" Guid="7c3f0b88-5072-4716-bf73-93836e6b3610" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google Calendar - Week of April 5, 2026' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="65, 441, 24, 24" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='BUTTON' aaname='{0}' /&gt;&quot;, strDate)]" Guid="dcce4ed0-7c4d-4246-98c0-8481284e4711" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="194bf6159fef718a9d326ccaf4b51416.jpg" xmlns="">08r06bRGKNUeqTEwBemLvsw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="strDate" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Highlight</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

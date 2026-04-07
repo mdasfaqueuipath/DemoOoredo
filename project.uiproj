@@ -1,0 +1,6 @@
+{
+  "Name": "Demo_Ooredo",
+  "ProjectType": "Process",
+  "Description": "Advanced Devloper Training",
+  "MainFile": "Main.xaml"
+}

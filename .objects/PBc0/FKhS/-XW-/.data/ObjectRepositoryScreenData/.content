@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="AaPhtlq1MEe1I6AoWI4DJA" Reference="KFKxh6dXGk6fxd9xZs55-A/-XW-4KfHAEyrcxB83pZ3Yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="423, 224, 645, 672" BrowserType="Edge" ContentHash="D86D1dKi10-3nZbEDjDBpg" Reference="KFKxh6dXGk6fxd9xZs55-A/-XW-4KfHAEyrcxB83pZ3Yg" Selector="&lt;html app='msedge.exe' title='ACME System 1' /&gt;" Url="https://acme-test.uipath.com/work-items/update/109224586" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="abc65532070f5791c704e6e992e84243.jpg" xmlns="">00I_MjG2Q5k-i3ptc4haYlw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

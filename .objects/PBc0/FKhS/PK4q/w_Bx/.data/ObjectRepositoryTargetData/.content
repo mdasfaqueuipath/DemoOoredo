@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="72yG-MpZf0qZZ6Ba3tYQkg" Reference="KFKxh6dXGk6fxd9xZs55-A/w_BxAM0QCkmroWVvgc9q6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" DesignTimeRectangle="494, 597, 24, 22" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='{0}' tag='BUTTON' /&gt;&quot;, DT_index+2)]" Guid="a30ebe80-5159-4f65-bc2f-e94cb51bee4c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="880f619ff86ad59bb77723d9289b1362.jpg" xmlns="">0uX072MGmvkeP9Tf4vM3V-g</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="DT_index+2" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Highlight</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
